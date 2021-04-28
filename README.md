@@ -1,2 +1,2 @@
 # django-basics
-Course Django for everybody Coursera
+First Course of Django for everybody Coursera
